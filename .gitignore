@@ -1,0 +1,8 @@
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Local diagnostics / scratch output
+_acl-recovery/
+*.local.md

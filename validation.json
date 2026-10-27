@@ -1,0 +1,91 @@
+{
+  "checkedAt": "2026-10-23T12:35:21.951Z",
+  "skill": "research-novelty-gate",
+  "validationScope": "Runtime load and static package checks only; acceptance-case scenarios have not been executed as a model behavioral benchmark.",
+  "checks": {
+    "runtimeLoadVerified": true,
+    "frontmatterPresent": true,
+    "nameMatches": true,
+    "descriptionPresent": true,
+    "requiredFilesNonempty": true,
+    "internalLinksValid": true,
+    "fiveElementHandoff": true,
+    "acceptanceCases": 12,
+    "negativeDecisionAllowed": true,
+    "evidenceLevelsPresent": true,
+    "publicationNotPromised": true,
+    "permissionBoundaries": true,
+    "notProjectHardcoded": true
+  },
+  "files": [
+    {
+      "file": "SKILL.md",
+      "bytes": 9458,
+      "sha256": "7971919c566e0d98f7e84237313995eee1e29eda66201aa636eae82c65c8c730",
+      "links": [
+        {
+          "link": "references/workflow.md",
+          "exists": true,
+          "withinPackage": true
+        },
+        {
+          "link": "templates/evidence.md",
+          "exists": true,
+          "withinPackage": true
+        },
+        {
+          "link": "templates/decision.md",
+          "exists": true,
+          "withinPackage": true
+        },
+        {
+          "link": "templates/handoff.md",
+          "exists": true,
+          "withinPackage": true
+        },
+        {
+          "link": "examples/acceptance-cases.md",
+          "exists": true,
+          "withinPackage": true
+        }
+      ]
+    },
+    {
+      "file": "README.md",
+      "bytes": 2864,
+      "sha256": "3e3e920f71761bfb75f90d66d7cdac035797c1622ba22fd19e8f1cebfb34c2ae",
+      "links": []
+    },
+    {
+      "file": "references/workflow.md",
+      "bytes": 7490,
+      "sha256": "1e0bb38108d44595c47e5555c5ce0da99a244090e897090c493d31d515ba6478",
+      "links": []
+    },
+    {
+      "file": "templates/evidence.md",
+      "bytes": 2486,
+      "sha256": "c40dd0830609c7e51cde3bcf3afd6f66889581d282f0a2d0d402a9d92b06da9d",
+      "links": []
+    },
+    {
+      "file": "templates/decision.md",
+      "bytes": 2329,
+      "sha256": "9c9de7c915316872757ca11eaf7d1a991b55cb1c44d18a2871e2d13c09c0260c",
+      "links": []
+    },
+    {
+      "file": "templates/handoff.md",
+      "bytes": 4792,
+      "sha256": "4f1a41a3b005e0e799f887e84f0dfee60dc4ff335ef3b791c6f1217ec6e1674e",
+      "links": []
+    },
+    {
+      "file": "examples/acceptance-cases.md",
+      "bytes": 3562,
+      "sha256": "837ac144574ea9a4c02e0898ae1bb387858e5ae74bd26b0458a0a73f443f71a1",
+      "links": []
+    }
+  ],
+  "pass": true
+}
