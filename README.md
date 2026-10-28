@@ -76,10 +76,7 @@
 ## 安装
 
 ```bash
-git clone https://github.com/Cupit-zy/Innovation-point-search.git
-
-# 仓库名是历史遗留，克隆后建议改回目录名
-mv Innovation-point-search research-novelty-gate
+git clone https://github.com/Cupit-zy/research-novelty-gate.git
 ```
 
 把整个目录放进 agent 的技能目录，保持 `SKILL.md` 在根：
